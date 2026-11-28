@@ -1,4 +1,4 @@
-# bitstarter
+# monoton
 
 A 2013 startup-class project built on the [heroku/node-js-sample](https://github.com/heroku/node-js-sample) template: a Node.js product landing page ("Monoton") plus the course's grading tooling.
 
